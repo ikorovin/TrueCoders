@@ -1,0 +1,7 @@
+C:\Users\alamber\source\repos\TrueCoders\TrueCoders\bin\Debug\TrueCoders.exe.config
+C:\Users\alamber\source\repos\TrueCoders\TrueCoders\bin\Debug\TrueCoders.exe
+C:\Users\alamber\source\repos\TrueCoders\TrueCoders\bin\Debug\TrueCoders.pdb
+C:\Users\alamber\source\repos\TrueCoders\TrueCoders\obj\Debug\TrueCoders.csprojAssemblyReference.cache
+C:\Users\alamber\source\repos\TrueCoders\TrueCoders\obj\Debug\TrueCoders.csproj.CoreCompileInputs.cache
+C:\Users\alamber\source\repos\TrueCoders\TrueCoders\obj\Debug\TrueCoders.exe
+C:\Users\alamber\source\repos\TrueCoders\TrueCoders\obj\Debug\TrueCoders.pdb
